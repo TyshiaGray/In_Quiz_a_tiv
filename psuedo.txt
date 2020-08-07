@@ -1,0 +1,20 @@
+I need to show the user a welcome screen
+
+should have a navbar with link to highscore page
+
+when they click the start button
+
+show first question and start timer
+
+when they answer the question we subtract 15 seconds if they are wrong 
+
+display next question
+
+add new row that represents end game screen
+
+div to show there score hint score secondsLeft
+
+this row should start with class of "d-none"
+
+you will remove the class "d-none" when the clock is at 0 or if they finish the questions.
+
